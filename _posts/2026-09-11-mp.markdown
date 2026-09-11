@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "开源软件意见生成视频，在家躺赚收益"
+title:        "开源软件一键生成视频，在家躺赚收益"
 author:       "helleer"
 header-style: text
 catalog:      true
@@ -9,4 +9,4 @@ tags:
     - JavaScript
 ---
 
-开源软件意见生成视频，在家躺赚收益
+开源软件一键生成视频，在家躺赚收益
